@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Rail Resolve**
 
-- 🌱 I’m currently learning **tensorflow**
+- 🌱 I’m currently learning **Airflow**
 
 - 📫 How to reach me **abhishekjunior1@gmail.com**
 
