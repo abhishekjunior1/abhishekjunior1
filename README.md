@@ -1,10 +1,6 @@
 <h1 align="center">Hi ,I'm Abhishek</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 🔭 I’m currently working on **Rail Resolve**
-
-- 🌱 I’m currently learning **Airflow**
-
 - 📫 How to reach me **abhishekjunior1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
